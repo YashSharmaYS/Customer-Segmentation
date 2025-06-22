@@ -1,4 +1,4 @@
-*Walmart Customer Segmentation Analysis
+Walmart Customer Segmentation Analysis
 This project segments Walmart customers based on their purchasing behavior using machine learning algorithms, particularly KMeans clustering. The goal is to identify customer segments that can support targeted marketing strategies, product recommendations, and customer service improvements.
 
 Table of Contents
